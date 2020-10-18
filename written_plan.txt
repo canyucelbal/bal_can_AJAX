@@ -1,0 +1,6 @@
+    1- Create a .json file and convert the data from classData.js
+    2- Create main.js and fetch the data from classData.json
+    3- Add 'Catch' to grab errors while it fetching the data
+    4- 
+    5- 
+    6- 
